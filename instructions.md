@@ -10,7 +10,7 @@
 ### Objectives
 **Please note:** This assignment should be completed _individually_.
 
-1. Demonstrate how to navigate the file system from the command line and manage files, with these and similar commands (see F&R, chap. 2)
+1. Demonstrate how to navigate the file system from the command line and manage files, with these and similar commands (see F&R, chap. 2):
 ```
 pwd             # print working directory
 cd <PATH>       # change directory to <path>
@@ -23,7 +23,7 @@ rm <PATH>            # remove a file or directory
 cp <PATH1> <PATH2>   # copy a file or directory
 cat <FILENAME>       # display the contents of a file
 ```
-2. Describe the purpose of git and GitHub (see F&R, chap. 3)
+2. Describe the purpose of git and GitHub (see F&R, chap. 3).
 3. Demonstrate how to manage a project using git and GitHub, with these and similar commands (see F&R, chap. 3):
 ```
 # Setting up basic identifying information
@@ -37,13 +37,14 @@ git add .                        # Add all files in current directory to  stagin
 git git commit -m "<A MESSAGE>"  # Make changes s
 git push
 ```
-4. Use markdown syntax to format document (see F&R, chap. 4)
+4. Use markdown syntax to format document (see F&R, chap. 4).
 5. Consider how data science can be both a **tool** and a **weapon**.
+6. Professional practice: (a) Work closely with requirements; and (b) Reflect on the benefits/costs of planning before doing.
 
 ## Part I: The Command line
 In the root directory you will find a file named ``Git-commands.md``. The purpose of this file is for you to demonstrate your knowledge of working with the terminal (because we can't otherwise know which commands you entered in the terminal). Think of it as a way to document the code that you used in the terminal to perform the assignment.
 
-**Your work**: Following each prompt in the file ``Git-commands.md``, write the line of code that you would (did) use on the terminal to accomplish the task. You can then use this file as a reference for your own work. Make sure to save this file in your text editor, then add, commit, and push the changes to GitHub.
+**Your work**: Following each prompt in the file ``Git-commands.md``, write the line of code that you would (did) use on the terminal to accomplish the task or otherwise answer the question. You can then use this file as a reference for your own work. Make sure to save this file in your text editor, then add, commit, and push the changes to GitHub.
 
 ## Part II: Working with Markdown
 ### Background
