@@ -5,7 +5,7 @@
 2. Download and install [Git](https://git-scm.com/).
 3. Sign-up for a [GitHub](https://github.com/) user account.
 4. Download and install [R](https://cran.r-project.org/) (optional for this assignment).
-5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment)
+5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment).
 
 ### Objectives
 **Please note:** This assignment should be completed _individually_.
@@ -42,9 +42,9 @@ git push
 6. Professional practice: (a) Work closely with requirements; and (b) Reflect on the benefits/costs of planning before doing.
 
 ## Part I: The Command line
-In the root directory you will find a file named ``Git-commands.md``. The purpose of this file is for you to demonstrate your knowledge of working with the terminal (because we can't otherwise know which commands you entered in the terminal). Think of it as a way to document the code that you used in the terminal to perform the assignment.
+In the root directory you will find a file named ``git-commands.md``. The purpose of this file is for you to demonstrate your knowledge of working with the terminal (because we can't otherwise know which commands you entered in the terminal). Think of it as a way to document the code that you used in the terminal to perform the assignment.
 
-**Your work**: Following each prompt in the file ``Git-commands.md``, write the line of code that you would (did) use on the terminal to accomplish the task or otherwise answer the question. You can then use this file as a reference for your own work. Make sure to save this file in your text editor, then add, commit, and push the changes to GitHub.
+**Your work**: Following each prompt in the file ``git-commands.md``, write the line of code that you would (did) use on the terminal to accomplish the task or otherwise answer the question. You can then use this file as a reference for your own work. Make sure to save this file in your text editor, then add, commit, and push the changes to GitHub.
 
 ## Part II: Working with Markdown
 ### Background
@@ -56,7 +56,7 @@ Please read the following obituaries. Each of these people were extraordinary co
 * [Douglas Engelbart](https://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)
 
 ### Requirements
-Now that you have read their obituaries, write a single-page markdown document that meets the following requirements.
+Now that you have read their obituaries, write a  markdown document (one  page) that meets the following requirements.
 
 1. **Content requirements**. Choose *two* of these extraordinary people and summarize their lives with the following information:
   * Full name
@@ -71,7 +71,7 @@ Now that you have read their obituaries, write a single-page markdown document t
   * A link to a Wikipedia entry.
 1. **Presentation requirements.**
   * _Consistency_. Format each entry in the same manner.
-  * _Simplicity_. Seek a simple, clear, even elegant presentation.
+  * _Simplicity_. Seek an elegant - simple and clear - presentation.
 1. **Coding requirements**. To present the above information, _for each person_, use one or more of the following markdown elements:
   * A top-level heading
   * An unordered list
@@ -81,12 +81,12 @@ Now that you have read their obituaries, write a single-page markdown document t
   * A paragraph to present your reflective paragraph
   * Hypertext links to the obituary and to a Wikipedia entry.
 1. **Filenames and directories requirements.**
-  * Create two directories in `\images\photographs\people`, one directory for each person, name by their last name
+  * Create two directories in `\images\photographs\people`, one directory for each person, named by their last name
   * Put the two photographs into the respective directories
-  * Your document should be named `README.md`, located in the root directory of your repository.
+  * The document should be named `README.md`, located in the root directory of the repository.
   * Once you are finished, add, commit, and push all changes to GitHub.
 
-**Notes on Professional Practice**: (1) If you find a requirement _ambiguous_, that is, unclear ask your Teaching Assistant or post a question on Teams. Requirements should be _unambiguous_. Always resolve ambiguous requirements before designing and implementing solutions by **communicating directly** with your project manager or team member. (2) Before starting to code, read all of the requirements, draw a **hand-sketch** of your page design, and create a **todo list** of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to code.
+**Notes on Professional Practice**: (1) If you find a requirement _ambiguous_, that is, unclear ask your Teaching Assistant or post a question on Teams. Requirements should be _unambiguous_. Always resolve ambiguous requirements before designing and implementing solutions by **communicating directly** with your project manager or team member. (2) Before starting to code, read all of the requirements, draw a **hand-sketch** of your page design, and create a **todo list** of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to code. Reflect: What are the costs/benefits of planning? 
 
 ## Part III: Data Science: Tool for Good or Weapon?
 A. Data science can be weapon, a tool that harms human beings. As we shall see, O'Neil (2016) presents a devastating critique of data science. We'll explore her arguments in some detail, but to start please answer these two questions from pages 1-14:
