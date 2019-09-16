@@ -69,10 +69,10 @@ Now that you have read their obituaries, write a  markdown document (one  page) 
   * A reflective paragraph. If you could, what question would you ask Lovelace, Turning, Spärck Jones, or Engelbart? Give your question and explain why you would ask it? (30-50 words)
   * A link to the obituary
   * A link to a Wikipedia entry.
-1. **Presentation requirements.**
+2. **Presentation requirements.**
   * _Consistency_. Format each entry in the same manner.
   * _Simplicity_. Seek an elegant - simple and clear - presentation.
-1. **Coding requirements**. To present the above information, _for each person_, use one or more of the following markdown elements:
+3. **Coding requirements**. To present the above information, _for each person_, use one or more of the following markdown elements:
   * A top-level heading
   * An unordered list
   * **Bold** and _italics_ for emphasis
@@ -80,13 +80,13 @@ Now that you have read their obituaries, write a  markdown document (one  page) 
   * A blockquote to format the key quotation
   * A paragraph to present your reflective paragraph
   * Hypertext links to the obituary and to a Wikipedia entry.
-1. **Filenames and directories requirements.**
+4. **Filenames and directories requirements.**
   * Create two directories in `\images\photographs\people`, one directory for each person, named by their last name
   * Put the two photographs into the respective directories
   * The document should be named `README.md`, located in the root directory of the repository.
   * Once you are finished, add, commit, and push all changes to GitHub.
 
-**Notes on Professional Practice**: (1) If you find a requirement _ambiguous_, that is, unclear ask your Teaching Assistant or post a question on Teams. Requirements should be _unambiguous_. Always resolve ambiguous requirements before designing and implementing solutions by **communicating directly** with your project manager or team member. (2) Before starting to code, read all of the requirements, draw a **hand-sketch** of your page design, and create a **todo list** of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to code. Reflect: What are the costs/benefits of planning? 
+**Notes on Professional Practice**: (1) If you find a requirement _ambiguous_, that is, unclear ask your Teaching Assistant or post a question on Teams. Requirements should be _unambiguous_. Always resolve ambiguous requirements before designing and implementing solutions by **communicating directly** with your project manager or team member. (2) Before starting to code, read all of the requirements, draw a **hand-sketch** of your page design, and create a **todo list** of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to code. Reflect: What are the costs/benefits of planning?
 
 ## Part III: Data Science: Tool for Good or Weapon?
 A. Data science can be weapon, a tool that harms human beings. As we shall see, O'Neil (2016) presents a devastating critique of data science. We'll explore her arguments in some detail, but to start please answer these two questions from pages 1-14:
