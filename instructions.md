@@ -97,7 +97,7 @@ A. Data science can be weapon, a tool that harms human beings. As we shall see, 
   1. By quoting from O'Neil (2016), define "Weapon of Math Destruction" (30-50 words).
   2. Give an example of a WMD (30-50 words).
 
-B. Data science can also, of course, be a tool for good. It can, for example, be used to make discovers about our social and natural worlds. One recent discovery made possible by data science is found in the paper by Wang, Stanovsky, Weihs, & Etzioni (2019). Browse this paper but please note: We do not expect you to understand the full paper in detail. Now, answer this question:
+B. Data science can also, of course, be a tool for good. It can, for example, be used to make discovers about our social and natural worlds. One recent discovery made possible by data science is found in the paper by Wang, Stanovsky, Weihs, & Etzioni (2019). Browse this paper (see below for link) but please note: We do not expect you to understand the full paper in detail. Now, answer this question:
 1. What research question did Wang et al. (2019) ask and what did they find? (about 50 words)
 
 **Submission requirements.** Please create a file, named `data_science.md`, located the root directory of your repository. Write your answers with markdown in that file. Please format your answers neatly. Once you are finished, add, commit, and push all changes to GitHub.
