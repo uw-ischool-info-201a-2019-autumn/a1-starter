@@ -72,7 +72,7 @@ Now that you have read their obituaries, write a single-page markdown document t
 1. **Presentation requirements.**
   * _Consistency_. Format each entry in the same manner.
   * _Simplicity_. Seek a simple, clear, even elegant presentation.
-1. **Coding requirements**. To present the above information, _for each person_, use the following markdown elements:
+1. **Coding requirements**. To present the above information, _for each person_, use one or more of the following markdown elements:
   * A top-level heading
   * An unordered list
   * **Bold** and _italics_ for emphasis
@@ -81,7 +81,7 @@ Now that you have read their obituaries, write a single-page markdown document t
   * A paragraph to present your reflective paragraph
   * Hypertext links to the obituary and to a Wikipedia entry.
 1. **Filenames and directories requirements.**
-  * Create two directories in `\images\photographs\people`, one directory for each person. Name the directories by the person's last name.
+  * Create two directories in `\images\photographs\people`, one directory for each person, name by their last name
   * Put the two photographs into the respective directories
   * Your document should be named `README.md`, located in the root directory of your repository.
   * Once you are finished, add, commit, and push all changes to GitHub.
@@ -93,16 +93,9 @@ A. Data science can be weapon, a tool that harms human beings. As we shall see, 
   1. By quoting from O'Neil (2016), define "Weapon of Math Destruction" (30-50 words).
   2. Give an example of a WMD (30-50 words).
 
-B. Data science can also, of course, also be a tool for good. It can, for example, be used to make discovers about our social and natural worlds. One recent discovery made possible by data science is found in the paper by Wang, Stanovsky, Weihs, & Etzioni (2019). Please browse this paper but please note: We do not expect you to understand the full paper in detail. Now, answer this question:
+B. Data science can also, of course, be a tool for good. It can, for example, be used to make discovers about our social and natural worlds. One recent discovery made possible by data science is found in the paper by Wang, Stanovsky, Weihs, & Etzioni (2019). Browse this paper but please note: We do not expect you to understand the full paper in detail. Now, answer this question:
 1. What research question did Wang et al. (2019) ask and what did they find? (about 50 words)
 
 **Submission requirements.** Please create a file, named `data_science.md`, located the root directory of your repository. Write your answers with markdown in that file. Please format your answers neatly. Once you are finished, add, commit, and push all changes to GitHub.
 
 Wang, L. L., Stanovsky, G., Weihs, L., & Etzioni, O. (2019). Gender trends in computer science authorship. CoRR, abs/1906.07883. Retrieved from http://arxiv.org/abs/1906.07883
-
-
-
-
-![An figure with a blue square and green circle.](/images/example1.png "Example")
-
-Figure 1. This is an example figure, with caption and credit. (Credit: INFO-201 Course materials.)
