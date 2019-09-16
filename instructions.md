@@ -17,8 +17,8 @@ cd <PATH>       # change directory to <path>
 cd ..           # change to parent directory (go up)
 ls              # list files of current directory
 ls -las         # list files (show some details)
-
- mkdir <PATH>         # make a directory
+#
+mkdir <PATH>         # make a directory
 rm <PATH>            # remove a file or directory
 cp <PATH1> <PATH2>   # copy a file or directory
 cat <FILENAME>       # display the contents of a file
@@ -29,8 +29,8 @@ cat <FILENAME>       # display the contents of a file
 # Setting up basic identifying information
 git config --global user.name <YOUR FULL NAME>
 git config --global user.email <YOUR EMAIL ADDRESS>
-
- git clone <REPO_URL>             # Copy a repo to your machine
+#
+git clone <REPO_URL>             # Copy a repo to your machine
 git status                       # Check the status of a repo
 git add <FILENAME>               # Add file to staging area
 git add .                        # Add all files in current directory to  staging area
@@ -42,9 +42,13 @@ git push
 6. Professional practice: (a) Work closely with requirements; and (b) Reflect on the benefits/costs of planning before doing.
 
 ## Part I: The Command line
-In the root directory you will find a file named ``git-commands.md``. The purpose of this file is for you to demonstrate your knowledge of working with the terminal (because we can't otherwise know which commands you entered in the terminal). Think of it as a way to document the code that you used in the terminal to perform the assignment.
+In the root directory you will find a file named ``git-commands.md``. The purpose of this file is for you to demonstrate your knowledge of working with the terminal. You will document the commands that you used to complete each of the tasks.
 
-**Your work**: Following each prompt in the file ``git-commands.md``, write the line of code that you would (did) use on the terminal to accomplish the task or otherwise answer the question. You can then use this file as a reference for your own work. Make sure to save this file in your text editor, then add, commit, and push the changes to GitHub.
+**Your work**: Following each prompt in the file ``git-commands.md``, write the line of code that you used to accomplish the task or otherwise answer the question.
+
+ Make sure to save this file in your text editor, then add, commit, and push the changes to GitHub.
+
+ After completing this assignment, you can continue to add commands to this file and use it as a reference for your own work.
 
 ## Part II: Working with Markdown
 ### Background
