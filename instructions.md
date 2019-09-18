@@ -7,6 +7,16 @@
 4. Download and install [R](https://cran.r-project.org/) (optional for this assignment).
 5. Download and install [RStudio](https://www.rstudio.com/) (optional for this assignment).
 
+### Useful documentation
+
+* [Markdown documentation for GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+* [Markdown 2-pager cheetsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+### Notes on grading
+* This assignment as 32 points, as indicated in requirements below
+* Partial points can be awarded
+* All writing should be concise, clear, and free of spelling and grammatical errors
+
 ### Objectives
 **Please note:** This assignment should be completed _individually_.
 
@@ -62,43 +72,44 @@ Please read the following obituaries. Each of these people were extraordinary co
 ### Requirements
 Now that you have read their obituaries, write a  markdown document (one  page) that meets the following requirements.
 
-1. **Content requirements**. Choose *two* of these extraordinary people and summarize their lives with the following information:
-  * Full name
-  * Photograph
-  * Date of birth and death and age at death
-  * Main area of research
-  * Two key facts about their personal lives
-  * Two key professional contributions
-  * A key quotation from the obituary
-  * A reflective paragraph. If you could, what question would you ask Lovelace, Turning, Spärck Jones, or Engelbart? Give your question and explain why you would ask it? (30-50 words)
-  * A link to the obituary
-  * A link to a Wikipedia entry.
-2. **Presentation requirements.**
-  * _Consistency_. Format each entry in the same manner.
-  * _Simplicity_. Seek an elegant - simple and clear - presentation.
-3. **Coding requirements**. To present the above information, _for each person_, use one or more of the following markdown elements:
-  * A top-level heading
-  * An unordered list
-  * **Bold** and _italics_ for emphasis
-  * An image tag to present a photograph (include the `ALT` tag and descriptive text for screen reader accessibility)
-  * A blockquote to format the key quotation
-  * A paragraph to present your reflective paragraph
-  * Hypertext links to the obituary and to a Wikipedia entry.
-4. **Filenames and directories requirements.**
-  * Create two directories in `\images\photographs\people`, one directory for each person, named by their last name
-  * Put the two photographs into the respective directories
-  * The document should be named `README.md`, located in the root directory of the repository.
+1. **Content requirements [14 points total]**. Choose *two* of these extraordinary people and summarize their lives with the following information:
+  * Full name [1 point]
+  * Photograph [1 point]
+  * Date of birth and death and age at death [2 points]
+  * Main area of research [1 point]
+  * Two key facts about their personal lives [2 points]
+  * Two key professional contributions [2 points]
+  * A key quotation from the obituary [1 point]
+  * A reflective paragraph. If you could, what question would you ask Lovelace, Turning, Spärck Jones, or Engelbart? Give your question and explain why you would ask it? (30-50 words) [2 points]
+  * A link to the obituary - link text [1 point]
+  * A link to a Wikipedia entry - link text [1 point]
+2. **Presentation requirements [2 points total]**.
+  * _Consistency_. Format each entry in the same manner [2 points]
+  * _Simplicity_. Seek an elegant - simple and clear - presentation [no points]
+3. **Coding requirements [11 points total]**. To present the above information, _for each person_, use _all_ of the following markdown elements:
+  * A top-level heading (``<h1>``) [1 point]
+  * An unordered list [1 point]
+  * **Bold** and _italics_ for emphasis [2 points]
+  * An image tag to present a photograph (include the `ALT` tag and descriptive text for screen reader accessibility) [2 points]
+  * A blockquote to format the key quotation [1 point]
+  * A paragraph to present your reflective paragraph [1 point]
+  * Hypertext links to the obituary and to a Wikipedia entry [2  points]
+  * Include an emoji -- e.g., :rocket: -- in your reflective paragraph [1 point]
+4. **Filenames and directories requirements [5 total points]**.
+  * Create two directories in `\images\photographs\people`, one directory for each person, named by their last name [2 points]
+  * Put the two photographs into the respective directories [2 points]
+  * The document should be named `README.md`, located in the root directory of the repository [1 point]
   * Once you are finished, add, commit, and push all changes to GitHub.
 
 **Notes on Professional Practice**: (1) If you find a requirement _ambiguous_, that is, unclear ask your Teaching Assistant or post a question on Teams. Requirements should be _unambiguous_. Always resolve ambiguous requirements before designing and implementing solutions by **communicating directly** with your project manager or team member. (2) Before starting to code, read all of the requirements, draw a **hand-sketch** of your page design, and create a **todo list** of the steps you need to follow. It is almost always a good idea to do a bit of planning before starting to code. Reflect: What are the costs/benefits of planning?
 
 ## Part III: Data Science: Tool for Good or Weapon?
 A. Data science can be weapon, a tool that harms human beings. As we shall see, O'Neil (2016) presents a devastating critique of data science. We'll explore her arguments in some detail, but to start please answer these two questions from pages 1-14:
-  1. By quoting from O'Neil (2016), define "Weapon of Math Destruction" (30-50 words).
-  2. Give an example of a WMD (30-50 words).
+  1. By quoting from O'Neil (2016), define "Weapon of Math Destruction" (30-50 words). [1 point for accurate quote; 1 point for introducing and clarifying the quotation]
+  2. Give an example of a WMD (30-50 words) [2 points for a complete example]
 
 B. Data science can also, of course, be a tool for good. It can, for example, be used to make discovers about our social and natural worlds. One recent discovery made possible by data science is found in the paper by Wang, Stanovsky, Weihs, & Etzioni (2019). Browse this paper (see below for link) but please note: We do not expect you to understand the full paper in detail. Now, answer this question:
-1. What research question did Wang et al. (2019) ask and what did they find? (about 50 words)
+1. In your own words (a) what the the main research question; and (b) What did they find? (about 50 words) [1 point for (a); 1 point for (b)]
 
 **Submission requirements.** Please create a file, named `data_science.md`, located the root directory of your repository. Write your answers with markdown in that file. Please format your answers neatly. Once you are finished, add, commit, and push all changes to GitHub.
 
