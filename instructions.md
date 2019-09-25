@@ -13,7 +13,7 @@
 * [Markdown 2-pager cheetsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ### Notes on grading
-* This assignment as 32 points, as indicated in requirements below
+* This assignment as 53 points, as indicated in requirements below
 * Partial points can be awarded
 * All writing should be concise, clear, and free of spelling and grammatical errors
 
