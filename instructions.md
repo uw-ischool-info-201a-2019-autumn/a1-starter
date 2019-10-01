@@ -96,7 +96,7 @@ Now that you have read their obituaries, write a  markdown document (one  page) 
   * Hypertext links to the obituary and to a Wikipedia entry [2  points]
   * Include an emoji -- e.g., :rocket: -- in your reflective paragraph [1 point]
 4. **Filenames and directories requirements [5 total points]**.
-  * Create two directories in `\images\photographs\people`, one directory for each person, named by their last name [2 points]
+  * Create two directories in `images/photos/people`, one directory for each person, named by their last name [2 points]
   * Put the two photographs into the respective directories [2 points]
   * The document should be named `README.md`, located in the root directory of the repository [1 point]
   * Once you are finished, add, commit, and push all changes to GitHub.
